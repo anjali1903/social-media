@@ -1,0 +1,11 @@
+body {
+  background-color: white;
+}
+
+.app_page {
+  display: flex;
+}
+
+.app_posts {
+  display: flex;
+}
